@@ -3,7 +3,7 @@
 ## About:
 
 * This is a data science project that explores ~80 million Indian district court data across states from the Development Data Lab.
-* This this project also uses scikit-learn to build a RandomForest classifier to predict wether a judge is likely to award dacquisition or conviction
+* This this project also uses scikit-learn to build a RandomForest classifier to predict wether a judge is likely to award acquisition or conviction
 
 ## Approach taken:
 * The given information was visualized (see figure belpw):
