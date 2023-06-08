@@ -6,7 +6,7 @@
 * This this project also uses scikit-learn to build a RandomForest classifier to predict wether a judge is likely to award acquisition or conviction
 
 ## Approach taken:
-* The given information was visualized (see figure belpw):
+* The given information was visualized (see figure below):
 * Samples were merged using pandas from each table, and initial data exploration was done to understand correlation between given data.
 * From above data exploration, this project looks into 3 major questions:
 
